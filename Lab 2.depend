@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549501318 source:e:\lab 2\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+
